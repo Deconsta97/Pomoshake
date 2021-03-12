@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "editor.autoClosingBrackets": "never",
-    "css.completion.completePropertyWithSemicolon": false
+    "css.completion.completePropertyWithSemicolon": false,
+    "browser-preview.startUrl": "http://localhost:3000/"
 }

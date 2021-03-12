@@ -11,7 +11,7 @@
   height: 4px;
   border-radius: 4px;
   background: var(--gray-line);
-  margin: 0 1.5rem; 
+  margin: 0 1.5rem;
   position: relative;
 }
 .experienceBar > div > div {
@@ -19,8 +19,8 @@
   border-radius: 4px;
   background: var(--green);
   align-self: flex-start;
-  transition-duration: 500ms;
-  transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  transition-duration: 1s;
+  transition-timing-function: cubic-bezier(0, 0, 0, 1);
 }
 
 span.currentExperience {
